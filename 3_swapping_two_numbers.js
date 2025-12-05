@@ -11,9 +11,6 @@ b = temp;
 
 console.log(`After swapping: a=${a} and b=${b}`);
 
-
-
-
 // By using destructuring
 
 // [a, b] = [b, a];
